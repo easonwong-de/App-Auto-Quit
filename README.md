@@ -2,7 +2,7 @@
 
 # App Auto Quit
 
-Terminates macOS apps when all of its windows are closed.
+Terminates macOS app when all of its windows are closed.
 
 Currently, the script only works with Preview, Notes, Calendar, and TextEdit.
 
